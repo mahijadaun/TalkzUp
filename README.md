@@ -4,7 +4,7 @@
 
 ## 🛠 Features
 
-- *Post Updates* – Share your thoughts with the world.
+- *Post Updates* – Share your thoughts with the world. 
 - *Like and Comment* – Engage with others' posts.
 - *Private Messaging* – Real-time conversations powered by Socket.io.
 - *User Authentication* – Secure login/signup with JWT.
